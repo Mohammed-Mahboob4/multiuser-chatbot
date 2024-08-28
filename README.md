@@ -34,7 +34,7 @@ This project implements an interactive AI Chatbot using Streamlit, integrated wi
 ## Customization
 
 - **Models and Versions:** One can modify the list of available models and versions in the sidebar configuration to include additional AI models.
-- **Database Connection:** Update the `SQLChatMessageHistory` connection string if using a different database or connection method.
+- **Database Connection:** Update the `SQLChatMessageHistory` connection if using a different database or connection method.
 
 ## Technologies Used
 - **Python:** Core programming language.
